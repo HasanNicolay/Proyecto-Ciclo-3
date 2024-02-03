@@ -12,3 +12,5 @@ git fetch -- cambia el repsoitorio al repositorio local borra el ultimo comit si
 =======
 Prueba Conflico con git fetch
 >>>>>>> refs/remotes/origin/master
+
+Prueba dos fetch marge
