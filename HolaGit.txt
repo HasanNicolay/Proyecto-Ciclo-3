@@ -5,3 +5,6 @@ Estamos probando cambios en el repositorio
 Prueba dos
 
 Cambio realizado en el local
+
+Prueba conflicto archivo diferente al local y al repositorio
+git fetch -- cambia el repsoitorio al repositorio local borra el ultimo comit sin borrar los archivos locales
